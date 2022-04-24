@@ -1,10 +1,3 @@
-#######################################################
-# Name:       Michael Cunningham
-# Class:      CIS-1400
-# Assignment: Homework 9 fall 2021
-# File:       Homework_09.py
-# Purpose: sort names
-######################################################
 def sort_list(name_list):
     for i in range(len(name_list)):
         for j in range(0,len(name_list)-i-1):
